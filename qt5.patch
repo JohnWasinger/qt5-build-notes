@@ -10,7 +10,7 @@ index 81553664..da2dc5fc 100644
  
  # Extract submodules from .gitmodules.
  lines = $$cat(.gitmodules, lines)
-diff --git a/src/corelib/global/qglobal.h b/src/corelib/global/qglobal.h
+diff --git a/qtbase/src/corelib/global/qglobal.h b/qtbase/src/corelib/global/qglobal.h
 index 501c542157..5c3f42de96 100644
 --- a/src/corelib/global/qglobal.h
 +++ b/src/corelib/global/qglobal.h
@@ -21,7 +21,7 @@ index 501c542157..5c3f42de96 100644
  /****************************************************************************
  **
  ** Copyright (C) 2019 The Qt Company Ltd.
-diff --git a/src/platformsupport/input/xkbcommon/qxkbcommon.cpp b/src/platformsupport/input/xkbcommon/qxkbcommon.cpp
+diff --git a/qtbase/src/platformsupport/input/xkbcommon/qxkbcommon.cpp b/qtbase/src/platformsupport/input/xkbcommon/qxkbcommon.cpp
 index 877c5d848f..91d66b705b 100644
 --- a/src/platformsupport/input/xkbcommon/qxkbcommon.cpp
 +++ b/src/platformsupport/input/xkbcommon/qxkbcommon.cpp

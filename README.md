@@ -6,4 +6,6 @@ Just keeping track of the configure gmake and patching efforts I've taken to bui
 
 git clone git://code.qt.io/qt/qt5.git
 
+cd qt5
+
 patch < qt5.patch
