@@ -5,4 +5,5 @@ Just keeping track of the configure gmake and patching efforts I've taken to bui
 ## how to download and patch qt5 for building
 
 git clone git://code.qt.io/qt/qt5.git
+
 patch < qt5.patch
